@@ -219,6 +219,7 @@ MIT © [Nutrient](https://www.nutrient.io)
 
 <p align="center">
   <a href="https://nudocs.ai">Nudocs.ai</a> •
+  <a href="https://github.com/PSPDFKit/nudocs-cli/blob/main/CHANGELOG.md">Changelog</a> •
   <a href="https://github.com/PSPDFKit/nudocs-cli/issues">Report Issue</a> •
   <a href="https://github.com/PSPDFKit/nudocs-mcp-server">MCP Server</a>
 </p>
