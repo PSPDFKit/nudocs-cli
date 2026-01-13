@@ -2,7 +2,7 @@
   "name": "@nutrient-sdk/nudocs-cli",
   "version": "1.0.0",
   "description": "Command-line interface for Nudocs.ai - upload, manage, and export documents",
-  "author": "PSPDFKit GmbH",
+  "author": "Nutrient",
   "license": "MIT",
   "repository": {
     "type": "git",

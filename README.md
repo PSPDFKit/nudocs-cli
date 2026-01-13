@@ -213,7 +213,7 @@ nudocs pull --format docx --output report.docx
 
 ## License
 
-MIT © [PSPDFKit GmbH](https://pspdfkit.com)
+MIT © [Nutrient](https://www.nutrient.io)
 
 ---
 
