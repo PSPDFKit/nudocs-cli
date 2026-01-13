@@ -1,17 +1,17 @@
-# @pspdfkit/nudocs-cli
+# @nutrient-sdk/nudocs-cli
 
 Command-line interface for [Nudocs.ai](https://nudocs.ai) - upload, manage, and export documents.
 
 ## Installation
 
 ```bash
-npm install -g @pspdfkit/nudocs-cli
+npm install -g @nutrient-sdk/nudocs-cli
 ```
 
 Or use directly with npx:
 
 ```bash
-npx @pspdfkit/nudocs-cli upload my-document.md
+npx @nutrient-sdk/nudocs-cli upload my-document.md
 ```
 
 ## Setup

@@ -1,5 +1,5 @@
 {
-  "name": "@pspdfkit/nudocs-cli",
+  "name": "@nutrient-sdk/nudocs-cli",
   "version": "1.0.0",
   "description": "Command-line interface for Nudocs.ai - upload, manage, and export documents",
   "author": "PSPDFKit GmbH",
@@ -24,7 +24,7 @@
     "pspdfkit"
   ],
   "bin": {
-    "nudocs": "./bin/nudocs.js"
+    "nudocs": "bin/nudocs.js"
   },
   "main": "./bin/nudocs.js",
   "engines": {
